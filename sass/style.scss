@@ -1,8 +1,3 @@
-@import "foundation/**";
-@import "setting/**";
-@import "function/**";
-@import "object/layout/**";
-@import "object/component/**";
-@import "object/project/**";
-@import "wordpress/**";
-@import "utility/**";
+@import "foundation/form";
+@import "function/_convert.scss";
+@import "function/_mixins.scss";
